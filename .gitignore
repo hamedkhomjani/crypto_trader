@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets - never commit
+.env
+
+# Runtime state and logs
+state.json
+*.log
